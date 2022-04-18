@@ -1,0 +1,3 @@
+WEBSITE 1
+-Repository ini dibuat untuk latihan website desain
+-Latihan ini dilakukan sekali seminggu 1 kali post website nya
